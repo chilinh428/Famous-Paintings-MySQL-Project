@@ -13,7 +13,7 @@ ORDER BY paintings_count DESC LIMIT 5;
 
 -- 02. Top 5 artists whose paintings are displayed in multiple countries
 SELECT 	full_name AS artist,
-	COUNT(country) AS countries_count
+	COUNT(DISTINCT country) AS countries_count
 FROM museum
 JOIN work
 USING (museum_id)
