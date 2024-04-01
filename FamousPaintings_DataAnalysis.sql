@@ -78,7 +78,7 @@ ORDER BY paintings_count DESC LIMIT 5;
 
 -- 11. Which country has the 5th highest number of paintings?
 SELECT	m.country,
-		COUNT(*) AS paintings_count
+	COUNT(*) AS paintings_count
 FROM museum m
 JOIN work w
 USING (museum_id)
