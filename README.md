@@ -3,7 +3,7 @@
 A database containing information about famous paintings and their artists could serve as a valuable resource for promoting art appreciation, supporting research and analysis, facilitating exhibition planning, informing market decisions, and enhancing educational experiences related to the visual arts.
 
 ## About Data
-The dataset was obtained from the [🖼️ Famous Paintings](https://www.kaggle.com/datasets/mexwell/famous-paintings/code), which contains famous paintings and their artists. The data contains 7 tables:
+The dataset was obtained from the [🖼️ Famous Paintings](https://www.kaggle.com/datasets/mexwell/famous-paintings/data), which contains famous paintings and their artists. The data contains 7 tables:
 
 01. Artist
 
