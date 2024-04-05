@@ -80,12 +80,12 @@ The dataset was obtained from the [🖼️ Famous Paintings](https://www.kaggle.
 
 1. Artist Analysis
 
->
+> This analysis aims to find the most popular artists based on the number of their works, the number of countries where their paintings are exhibited and their artwork prices.
 
 2. Museum Analysis
 
->
+> Conduct data analysis to learn about museums around the world through the number of paintings and their styles.
 
 3. Painting Analysis
 
->
+> This analysis aims to uncover different artworks by their painting subject, painting style, price and canvas size.
